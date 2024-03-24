@@ -33,7 +33,7 @@
 > 按钮启动 | 启动Tomcat
 
 - 后端：
-> 按钮启动 | 右键run SpringbootApplication
+> 按钮启动 | 启动Tomcat
 
 ### 管理员：
 
